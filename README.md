@@ -1,2 +1,7 @@
 # Image-processing
 这是使用Java对图像进行一些简单的处理
+InvertImage可以将图片进行反转 InvertImageBatch对文件夹进行操作
+
+RestoreImage可以将图片恢复 RestoreImages对整个文件夹进行操作
+
+image放了一些测试图片
