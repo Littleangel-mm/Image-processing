@@ -16,3 +16,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+InvertImage可以将图片进行反转
+InvertImageBatch对文件夹进行操作
+
+RestoreImage可以将图片恢复
+RestoreImages对整个文件夹进行操作
+
+image放了一些测试图片
