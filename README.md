@@ -4,6 +4,6 @@ InvertImage可以将图片进行反转 InvertImageBatch对文件夹进行操作
 
 RestoreImage可以将图片恢复 RestoreImages对整个文件夹进行操作
 
-ImageBlackAndWhite和ImageBlackAndWhite2对图片进行黑白处理
+ImageBlackAndWhite和ImageBlackAndWhite2对图片进行灰度处理
 
 image放了一些测试图片
